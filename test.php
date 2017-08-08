@@ -1,5 +1,5 @@
 <?php
 
-dump(111);
+echo wzj;
 
 ?>
